@@ -1,0 +1,6 @@
+this is log that will be ignored and not visible when committing to git.
+
+We never have log files .
+Usually we log our errors here.
+
+Error Logs:
